@@ -15,3 +15,10 @@
   border: 1px solid $border-color;
   border-radius: 2px;
 }
+
+.app-blocked__btnContainer {
+  button {
+    margin-right: 10px;
+    height: 35px;
+  }
+}
